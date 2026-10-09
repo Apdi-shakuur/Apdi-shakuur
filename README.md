@@ -1,69 +1,78 @@
 <div align="center">
 
-  <!-- Logo or Banner -->
-  <img src="assets/logo.png" alt="Project Logo" width="120" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=Apdi-shakuur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=18" width="100%" alt="Apdi-shakuur banner" />
 
-  # Project Name
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+web+applications;Always+learning+and+creating" alt="Typing introduction" />
+</a>
 
-  **A short, impactful one-line description of what this project does.**
+<br/>
 
-  <!-- Badges -->
-  [![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/main.svg?style=flat-square)](https://github.com/username/repo/actions)
-  [![License](https://img.shields.io/github/license/username/repo.svg?style=flat-square)](LICENSE)
-  [![Version](https://img.shields.io/github/v/release/username/repo?style=flat-square)](https://github.com/username/repo/releases)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+<a href="https://apdi-shakuur.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-7C3AED?style=for-the-badge" alt="Visit my portfolio" />
+</a>
+<a href="mailto:shakrapoi313@gmail.com">
+  <img src="https://img.shields.io/badge/📧_CONTACT_ME-1E293B?style=for-the-badge" alt="Email me" />
+</a>
 
-  [Demo Website](https://example.com) · [Report Bug](https://github.com/username/repo/issues) · [Request Feature](https://github.com/username/repo/issues)
+<br/><br/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=apdi-shakuur&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 
-<br />
-
----
-
-## 📌 Overview
-
-Give a 2-3 sentence summary of the problem this project solves and who it is built for.
-
-<div align="center">
-  <img src="assets/demo.gif" alt="Project Demo" width="800" />
 </div>
 
 ---
 
-## ✨ Features
+## ✨ About Me
 
-- ⚡ **Fast & Lightweight:** Built for optimal performance with minimal dependencies.
-- 🎨 **Customizable:** Easily configure themes, options, and plugins.
-- 🔒 **Secure by Default:** Implements modern security practices out of the box.
-- 📱 **Fully Responsive:** Works seamlessly across desktop, tablet, and mobile.
+- 💻 Full-stack web developer
+- 🚀 Explore my projects on my [portfolio](https://apdi-shakuur.github.io/portfolio/)
+- 📫 Contact me at **[shakrapoi313@gmail.com](mailto:shakrapoi313@gmail.com)**
 
----
-
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
 <div align="center">
 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,css,cypress,django,docker,figma,flutter,git,html,js,mysql,nodejs,php,python,react&theme=dark" alt="Languages and tools" />
 
 </div>
 
----
+## 📊 GitHub Dashboard
 
-## 🚀 Getting Started
+<div align="center">
 
-### Prerequisites
+<a href="https://github.com/apdi-shakuur">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=apdi-shakuur&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/apdi-shakuur">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdi-shakuur&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</a>
 
-Ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (v18 or higher)
-- [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
+<br/>
 
-### Installation
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apdi-shakuur&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/username/repo.git](https://github.com/username/repo.git)
-   cd repo
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://dev.to/apdi-shakuur.dev">
+  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" />
+</a>
+<a href="https://linkedin.com/in/apdi-shakuur-issak-a13b303aa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/apdi.shakuur.issak/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/rukaash4/">
+  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="" />
+</div>
