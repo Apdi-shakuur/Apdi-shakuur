@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apdi-shakuur&show_icons=true&locale=en&layout=compact"&theme=tokyonight alt="apdi-shakuur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apdi-shakuur&show_icons=true&locale=en" alt="apdi-shakuur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apdi-shakuur&theme=darkshow_icons=true&locale=en" alt="apdi-shakuur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apdi-shakuur&theme=tokyonight" alt="apdi-shakuur" /></p>
